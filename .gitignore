@@ -172,5 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-ignore Iris.csv
+Iris.csv
 
